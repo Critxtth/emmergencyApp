@@ -1,0 +1,8 @@
+{
+  "name": "emmergencyapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "943a2a75"
+}
